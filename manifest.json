@@ -1,0 +1,24 @@
+{
+  "name": "Warung Penyet Mbak Tia",
+  "short_name": "Penyet Tia",
+  "description": "Menu lengkap Warung Penyet Mbak Tia - Pesan sekarang!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#dc3545",
+  "theme_color": "#dc3545",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/ati-ampela-pedas.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/ati-ampela-pedas.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
