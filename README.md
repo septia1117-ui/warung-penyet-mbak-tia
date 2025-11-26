@@ -63,4 +63,4 @@ Free to use untuk keperluan pribadi dan komersial.
 
 ---
 
-Dibuat dengan ❤️ untuk Warung Penyet Mbak Tia
+Dibuat oleh Septia Dhian Wardani - Bisnis Digital - Semester 5
